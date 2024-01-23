@@ -1,1 +1,1 @@
-# nodejs-template
+# nodejs-ts-template
